@@ -7,4 +7,4 @@
 5. Check my code examles [here](https://www.codewars.com/users/100Rubley).
 6. _As I mentioned it early I have not got any real tasks before._
 7. I was graduated from Moscow State Univ. of Civil Engineering in 2019.
-8. My english level is somewere near Upper Intermediate (B2).
+8. My english level is somewere near _Upper Intermediate (B2)._
